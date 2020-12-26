@@ -1,0 +1,18 @@
+{
+    "name": "grafikart/event",
+    "authors": [
+        {
+            "name": "Grafikart",
+            "email": "contact@grafikart.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Event\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "kahlan/kahlan": "^3.1"
+    }
+}
