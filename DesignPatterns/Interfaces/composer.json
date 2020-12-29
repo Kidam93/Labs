@@ -1,0 +1,17 @@
+{
+    "name": "jonathanboyer/interfaces",
+    "authors": [
+        {
+            "name": "Jonathan Boyer",
+            "email": "contact@grafikart.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Grafikart\\": "Grafikart"
+        }
+    },
+    "require": {
+
+    }
+}
